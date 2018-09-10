@@ -1,0 +1,13 @@
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\bin\Debug\BookStore(UseWebApi).exe.config
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\bin\Debug\BookStore(UseWebApi).exe
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\bin\Debug\BookStore(UseWebApi).pdb
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\obj\Debug\BookStore(UseWebApi).csprojAssemblyReference.cache
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\obj\Debug\BookStore_UseWebApi_.Form1.resources
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\obj\Debug\BookStore_UseWebApi_.Properties.Resources.resources
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\obj\Debug\BookStore(UseWebApi).csproj.GenerateResource.cache
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\obj\Debug\BookStore(UseWebApi).csproj.CoreCompileInputs.cache
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\obj\Debug\BookStore(UseWebApi).csproj.CopyComplete
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\obj\Debug\BookStore(UseWebApi).exe
+C:\Users\maksym.soloviov\Documents\Visual Studio 2017\Projects\BookStore(UseWebApi)\BookStore(UseWebApi)\obj\Debug\BookStore(UseWebApi).pdb
